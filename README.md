@@ -120,3 +120,9 @@ run_end_to_end(
 
 ## Add a funny joke below here
 
+ “Anaka, inona no tianao hatao rehefa lehibe ianao ?”
+ “Te ho mpamily fiara aho dada.”
+ “Fa maninona ?”
+ “Satria na tara aza dia mbola lazaina hoe ‘tonga ara-potoana’ ”
+ “Ahoana izany ?”
+ “Satria hoe : tonga ihany!”
